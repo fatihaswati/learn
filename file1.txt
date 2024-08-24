@@ -1,1 +1,2 @@
-finally! first file of course is successfully created. yayyy1
+finally! first file of course is successfully created. yayyy!!
+adding new text to test the command comit 

@@ -1,1 +1,2 @@
 this is fix file for the testing of branch concpets 
+another bug is deteched and fixed!

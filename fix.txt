@@ -1,1 +1,7 @@
 this is fix file for the testing of branch concpets 
+
+
+third bug is detected and fixed!
+
+fourth bug is fixed but fifith is only detected not fixed.
+

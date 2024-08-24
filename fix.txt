@@ -2,3 +2,5 @@ this is fix file for the testing of branch concpets
 another bug is deteched and fixed!
 
 second bug deteched1
+
+sixth bug is fixed.

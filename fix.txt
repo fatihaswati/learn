@@ -1,1 +1,4 @@
 this is fix file for the testing of branch concpets 
+`1 
+i lost my porevious configuration bcz of my mistke now i have to make new configuraitions on 
+master branch so i'll make this change on both of the files.

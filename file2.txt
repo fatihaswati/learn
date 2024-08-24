@@ -3,3 +3,6 @@ checking status output for this file.
 checking the new file
 
 making new marketing stretgies!
+ 
+ footer area added
+ 
